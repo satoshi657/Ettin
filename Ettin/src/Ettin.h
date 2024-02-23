@@ -1,6 +1,7 @@
 #pragma once
 
 // To use by Ettin Applications
+#include "Ettin/Log.h"
 
 #include "Ettin/Application.h"
 

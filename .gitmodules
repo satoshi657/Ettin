@@ -1,0 +1,6 @@
+[submodule "Ettin/vendor/spdlog"]
+	path = Ettin/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "Ettin/vendor/SDL2"]
+	path = Ettin/vendor/SDL2
+	url = https://github.com/libsdl-org/SDL

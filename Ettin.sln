@@ -7,21 +7,20 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ettin", "Ettin\Ettin.vcxproj", "{542D7AB6-F1DD-4B3C-8057-0E0925D2A7EF}"
 EndProject
-
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{542D7AB6-F1DD-4B3C-8057-0E0925D2A7EF}.Debug|x64.ActiveCfg = Debug|x64
-		{542D7AB6-F1DD-4B3C-8057-0E0925D2A7EF}.Debug|x64.Build.0 = Debug|x64
-		{542D7AB6-F1DD-4B3C-8057-0E0925D2A7EF}.Release|x64.ActiveCfg = Release|x64
-		{542D7AB6-F1DD-4B3C-8057-0E0925D2A7EF}.Release|x64.Build.0 = Release|x64
 		{E88121BC-9680-4108-AEE9-7631F05C3C05}.Debug|x64.ActiveCfg = Debug|x64
 		{E88121BC-9680-4108-AEE9-7631F05C3C05}.Debug|x64.Build.0 = Debug|x64
 		{E88121BC-9680-4108-AEE9-7631F05C3C05}.Release|x64.ActiveCfg = Release|x64
 		{E88121BC-9680-4108-AEE9-7631F05C3C05}.Release|x64.Build.0 = Release|x64
+		{542D7AB6-F1DD-4B3C-8057-0E0925D2A7EF}.Debug|x64.ActiveCfg = Debug|x64
+		{542D7AB6-F1DD-4B3C-8057-0E0925D2A7EF}.Debug|x64.Build.0 = Debug|x64
+		{542D7AB6-F1DD-4B3C-8057-0E0925D2A7EF}.Release|x64.ActiveCfg = Release|x64
+		{542D7AB6-F1DD-4B3C-8057-0E0925D2A7EF}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
