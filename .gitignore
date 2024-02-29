@@ -1,6 +1,7 @@
 # diretories
 .vs/
 bin/
-
+bin-int/
+vendor/
 # files
 *.user

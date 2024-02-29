@@ -1,3 +1,4 @@
+#include "Etpch.h"
 #include "Log.h"
 
 namespace Ettin
